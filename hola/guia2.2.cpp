@@ -5,6 +5,7 @@
  #include<windows.h>
 #include <string.h>
 #include <time.h>
+#include <conio.h>
 int cambiarColor( int semaforo )
 {
 if( semaforo == 1 )
